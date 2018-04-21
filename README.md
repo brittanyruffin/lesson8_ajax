@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 20 2018
 
 ### Student Name:  
-(First and Last Name)
+Brittany Ruffin
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We were required to build a web page that would display information on movies that were searched by the visitor.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://brittanyruffin.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to incorporate JSON.
+2. Learned how to get my own API ID key.
+3. Learned more about JavaScript
